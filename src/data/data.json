@@ -1,0 +1,122 @@
+{
+  "Header": {
+    "title": "Generate new sales opportunities and maximise your brand visibility!",
+    "paragraph": "We are an established digital agency made up of the best digital professionals. Our strategic, creative, technical and account management teams work with you to take your business to the next level. Think of us as your very own digital department or extended marketing team."
+  },
+  "About": {
+    "paragraph": "We run social media for growing brands that want to turn followers into customers and fans into advocates. Creative, consultative, and experts in all things social, we offer social strategy, content creation, advertising, community management, influencer engagement, and digital PR.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"With our social-first approach and a team of experts, we help brands to stand out, gain awareness, grow online sales, and develop an engaged social community. Our services include:\"",
+      "name": "John Gary"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"A web hosting is a disk space on a server connected to the Internet allowing to store the content of your website (your e-mails, your databases...). Having a hosting for your website is having a home in the virtual world that looks like your real home.            .\"",
+      "name": "Ely Masoon"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The technical support is really high quality, very friendly and helpful!            \"",
+      "name": "Kira Sir"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Introduction",
+      "text": "Optimal selection of destinations according to choice criteria"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Mobile Version",
+      "text": "Facilitates the distribution of your brand"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Installation",
+      "text": "Includes design of the template, sending of emails, tracking and detailed reporting of your campaign"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Configuration",
+      "text": "Ensures perfect responsiveness to customers and/or prospects"
+    }
+  ]
+}
